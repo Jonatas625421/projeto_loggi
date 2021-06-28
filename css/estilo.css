@@ -1,0 +1,33 @@
+*{
+	margin:0 auto;
+	padding: 0;
+}
+
+#logo {
+	text-align: center;
+	height: 180px;
+}
+
+h2 {
+
+	text-align: center;
+	margin-top: 10px;
+	padding-bottom: 20px;
+}
+
+fieldset {
+    border-radius: 10px;
+    width: 600px;
+    height: 500px;
+	margin: 0 auto;
+	padding: 20px 0 20px 20px;
+	background: #B0E2FF;
+
+}
+
+input {
+	height: 25px;
+	text-align: center;
+
+}
+
